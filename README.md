@@ -2,7 +2,8 @@
 ASG CHAT APP for Final Assessment
 
 Go to the Directory of the Client folder and install all the dependencies
-run the command ### `npm install`
+run the command 
+### `npm install`
 
 Run the Client Side using the command 
 
@@ -10,7 +11,8 @@ Run the Client Side using the command
 
 
 Go to the Directory of the Server folder and install all the dependencies
-run the command ### `npm install`
+run the command 
+### `npm install`
 
 Run the Client Side using the command 
 
